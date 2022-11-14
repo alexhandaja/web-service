@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "",
+  "author": "AlexcandriaHandaja",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
